@@ -1,5 +1,5 @@
 # Bank-Credit---Logistic-Regression
-Ejercicio para determinar si se concede un crédito o no según las variables disponibles con un modelo de regresion logística
+Proyecto para determinar si se concede un crédito o no según las variables disponibles con un modelo de regresion logística
 
 Información de dataset
 job : type of job (categorical: "admin.","blue-collar","entrepreneur","housemaid","management","retired","self-employed","services","student","technician","unemployed","unknown")
