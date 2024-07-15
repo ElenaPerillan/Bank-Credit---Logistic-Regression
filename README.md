@@ -5,10 +5,15 @@ Información del Dataset
 El dataset utilizado en este proyecto contiene las siguientes variables:
 
 -**job:** tipo de trabajo (categórico: "admin.", "blue-collar", "entrepreneur", "housemaid", "management", "retired", "self-employed", "services", "student", "technician", "unemployed", "unknown")
+
 -**marital:** estado civil (categórico: "divorced", "married", "single", "unknown"; nota: "divorced" incluye divorciado y viudo)
+
 -**education:** nivel educativo (categórico: "basic.4y", "basic.6y", "basic.9y", "high.school", "illiterate", "professional.course", "university.degree", "unknown")
+
 -**default:** tiene créditos en mora? (categórico: "no", "yes", "unknown")
+
 -**housing:** tiene préstamo hipotecario? (categórico: "no", "yes", "unknown")
+
 -**loan:** tiene préstamo personal? (categórico: "no", "yes", "unknown")
 
 Relacionados con el último contacto de la campaña actual:
