@@ -1,5 +1,5 @@
 # Bank-Credit---Logistic-Regression
-# Proyecto para determinar si un cliente será apto para un depósito a plazo fijo o no según las variables disponibles con un modelo de regresión logística
+##Proyecto para determinar si un cliente será apto para un depósito a plazo fijo o no según las variables disponibles con un modelo de regresión logística
 
 ## Información del Dataset
 El dataset utilizado en este proyecto contiene las siguientes variables:
